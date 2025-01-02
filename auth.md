@@ -1,4 +1,4 @@
-# UBER API
+# AUTH API
 
 ## Login
 POST Login
